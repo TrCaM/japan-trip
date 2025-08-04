@@ -8,6 +8,14 @@ This document is your central hub for planning our upcoming trip to Japan. Here,
 *   **Trip Duration:** 11 nights / 12 days
 *   **Travel Dates:** October 3rd, 2025 - October 14th, 2025
 
+## TODOs
+
+- [ ] P0 - Very important: Make a new passport for Cathy
+- [ ] P0 - Very important: Apply Japan e-visa for Cathy
+- [ ] P0 - Very important: Apply Japan e-visa for Tri
+- [ ] Research and tickets for some sightseeing: e.g universal, Mount Fuji
+- [ ] Search for places to eat
+
 ## Itinerary
 
 | Date | Day | Plan | Location |
