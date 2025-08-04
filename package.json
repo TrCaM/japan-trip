@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@sylphlab/pdf-reader-mcp": "^0.3.23"
+	}
+}
